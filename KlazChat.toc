@@ -1,0 +1,11 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffChat|r
+## Author: Klaz
+## Notes: Styles default chat frames.
+## IconTexture: Interface\AddOns\KlazChat\Media\KlazAddOnIcon.blp
+
+Core\Localization.lua
+
+Modules\CopyLinks.lua
+Modules\ShortChannelNames.lua
+Modules\Style.lua
