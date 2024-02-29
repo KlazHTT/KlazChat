@@ -6,6 +6,7 @@ There are no in-game options. All settings are hard-coded.
 
 ## Features
 
+- Style default chat frames
 - Strip clutter from default chat frames
     - Remove social buttons
     - Remove chat tab textures
